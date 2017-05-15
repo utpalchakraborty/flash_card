@@ -6,7 +6,7 @@
             "e": "of course"
         }, 
         "abierta": {
-            "c": 1, 
+            "c": 2, 
             "e": "open"
         }, 
         "abogado": {
@@ -18,7 +18,7 @@
             "e": "coat"
         }, 
         "absolutamente": {
-            "c": 0, 
+            "c": 1, 
             "e": "absolutely"
         }, 
         "abuela": {
@@ -42,7 +42,7 @@
             "e": "water"
         }, 
         "ahora": {
-            "c": 0, 
+            "c": 1, 
             "e": "now"
         }, 
         "alli": {
@@ -110,7 +110,7 @@
             "e": "blue"
         }, 
         "bano": {
-            "c": 0, 
+            "c": 1, 
             "e": "bathroom"
         }, 
         "barato": {
@@ -126,7 +126,7 @@
             "e": "white"
         }, 
         "bonita": {
-            "c": 0, 
+            "c": -1, 
             "e": "beautiful"
         }, 
         "caballero": {
@@ -142,15 +142,15 @@
             "e": "each"
         }, 
         "cama": {
-            "c": 4, 
+            "c": 5, 
             "e": "bed"
         }, 
         "camina": {
-            "c": 3, 
+            "c": 4, 
             "e": "walk"
         }, 
         "cangrejo": {
-            "c": 0, 
+            "c": 1, 
             "e": "crab"
         }, 
         "capaz": {
@@ -182,7 +182,7 @@
             "e": "onion"
         }, 
         "cena": {
-            "c": 1, 
+            "c": 2, 
             "e": "dinner"
         }, 
         "cerdo": {
@@ -202,23 +202,23 @@
             "e": "five"
         }, 
         "ciudadano": {
-            "c": 0, 
+            "c": 1, 
             "e": "citizen"
         }, 
         "comida": {
-            "c": 0, 
+            "c": 1, 
             "e": "food"
         }, 
         "completamente": {
-            "c": 0, 
+            "c": 1, 
             "e": "completely"
         }, 
         "conductor": {
-            "c": 0, 
+            "c": -1, 
             "e": "driver"
         }, 
         "cordero": {
-            "c": 1, 
+            "c": 0, 
             "e": "lamb"
         }, 
         "corre": {
@@ -234,7 +234,7 @@
             "e": "four"
         }, 
         "cuchara": {
-            "c": 0, 
+            "c": 1, 
             "e": "spoon"
         }, 
         "cuchillo": {
@@ -258,7 +258,7 @@
             "e": "breakfast"
         }, 
         "despacio": {
-            "c": -1, 
+            "c": 0, 
             "e": "slowly"
         }, 
         "despues": {
@@ -274,7 +274,7 @@
             "e": "sunday"
         }, 
         "donde": {
-            "c": 0, 
+            "c": 1, 
             "e": "where"
         }, 
         "dormitorio": {
@@ -302,7 +302,7 @@
             "e": "businessman"
         }, 
         "enemigo": {
-            "c": 0, 
+            "c": 1, 
             "e": "enemy"
         }, 
         "enfermera": {
@@ -322,7 +322,7 @@
             "e": "student"
         }, 
         "exactamente": {
-            "c": 0, 
+            "c": 1, 
             "e": "exactly"
         }, 
         "facilmente": {
@@ -342,15 +342,15 @@
             "e": "dates"
         }, 
         "fiesta": {
-            "c": 0, 
+            "c": 1, 
             "e": "party"
         }, 
         "finalmente": {
-            "c": 0, 
+            "c": 1, 
             "e": "finally"
         }, 
         "fruta": {
-            "c": 0, 
+            "c": 2, 
             "e": "fruit"
         }, 
         "fuertes": {
@@ -366,15 +366,15 @@
             "e": "general"
         }, 
         "generalmente": {
-            "c": 0, 
+            "c": 1, 
             "e": "generally"
         }, 
         "gracias": {
-            "c": 1, 
+            "c": 0, 
             "e": "thank you "
         }, 
         "grande": {
-            "c": 0, 
+            "c": 1, 
             "e": "big"
         }, 
         "gris": {
@@ -382,11 +382,11 @@
             "e": "grey"
         }, 
         "gusto": {
-            "c": -1, 
+            "c": 0, 
             "e": "like"
         }, 
         "habitacion": {
-            "c": 0, 
+            "c": -1, 
             "e": "room"
         }, 
         "hermana": {
@@ -394,11 +394,11 @@
             "e": "sister"
         }, 
         "hermano": {
-            "c": 3, 
+            "c": 4, 
             "e": "brother"
         }, 
         "hija": {
-            "c": 0, 
+            "c": 1, 
             "e": "daughter"
         }, 
         "hiyo": {
@@ -406,7 +406,7 @@
             "e": "son"
         }, 
         "hola": {
-            "c": 0, 
+            "c": 1, 
             "e": "hello"
         }, 
         "hombre": {
@@ -422,11 +422,11 @@
             "e": "today"
         }, 
         "huevo": {
-            "c": 1, 
+            "c": 2, 
             "e": "egg"
         }, 
         "igualmente": {
-            "c": 0, 
+            "c": -1, 
             "e": "likewise"
         }, 
         "immediatemente": {
@@ -434,7 +434,7 @@
             "e": "immediately"
         }, 
         "jabon": {
-            "c": 0, 
+            "c": 1, 
             "e": "soap"
         }, 
         "jamas": {
@@ -462,7 +462,7 @@
             "e": "long"
         }, 
         "leche": {
-            "c": 0, 
+            "c": 1, 
             "e": "milk"
         }, 
         "lejos": {
@@ -474,11 +474,11 @@
             "e": "slowly"
         }, 
         "lento": {
-            "c": 4, 
+            "c": 5, 
             "e": "slow"
         }, 
         "limon": {
-            "c": 2, 
+            "c": 3, 
             "e": "lemon"
         }, 
         "limpia": {
@@ -558,7 +558,7 @@
             "e": "moment"
         }, 
         "mono": {
-            "c": 0, 
+            "c": 1, 
             "e": "monkey"
         }, 
         "mujer": {
@@ -566,7 +566,7 @@
             "e": "woman"
         }, 
         "muy": {
-            "c": 0, 
+            "c": -1, 
             "e": "very"
         }, 
         "naranja": {
@@ -574,7 +574,7 @@
             "e": "orange"
         }, 
         "naturalmente": {
-            "c": 0, 
+            "c": 1, 
             "e": "naturally"
         }, 
         "negro": {
@@ -602,7 +602,7 @@
             "e": "normal"
         }, 
         "normalmente": {
-            "c": 0, 
+            "c": 1, 
             "e": "normally"
         }, 
         "nuevamenta": {
@@ -614,11 +614,11 @@
             "e": "nine"
         }, 
         "ocho": {
-            "c": 2, 
+            "c": 3, 
             "e": "eight"
         }, 
         "oso": {
-            "c": 0, 
+            "c": 1, 
             "e": "bear"
         }, 
         "padre": {
@@ -630,7 +630,7 @@
             "e": "parents"
         }, 
         "pajaro": {
-            "c": 4, 
+            "c": 5, 
             "e": "bird"
         }, 
         "pan": {
@@ -638,7 +638,7 @@
             "e": "bread"
         }, 
         "panadero": {
-            "c": 0, 
+            "c": 1, 
             "e": "baker"
         }, 
         "papa": {
@@ -654,7 +654,7 @@
             "e": "wall"
         }, 
         "paredes": {
-            "c": 0, 
+            "c": -1, 
             "e": "walls"
         }, 
         "pareja": {
@@ -682,7 +682,7 @@
             "e": "painter"
         }, 
         "piso": {
-            "c": 0, 
+            "c": -1, 
             "e": "floor"
         }, 
         "policia": {
@@ -694,7 +694,7 @@
             "e": "chicken"
         }, 
         "practicamente": {
-            "c": 0, 
+            "c": 1, 
             "e": "practically"
         }, 
         "primavera": {
@@ -702,7 +702,7 @@
             "e": "spring"
         }, 
         "probablemente": {
-            "c": 0, 
+            "c": 1, 
             "e": "probably"
         }, 
         "pronto": {
@@ -738,11 +738,11 @@
             "e": "real"
         }, 
         "recientemente": {
-            "c": 0, 
+            "c": 1, 
             "e": "recently"
         }, 
         "relativamente": {
-            "c": 0, 
+            "c": 1, 
             "e": "relatively"
         }, 
         "rojo": {
@@ -778,7 +778,7 @@
             "e": "priest"
         }, 
         "segundos": {
-            "c": 0, 
+            "c": 1, 
             "e": "seconds"
         }, 
         "segura": {
@@ -786,11 +786,11 @@
             "e": "sure"
         }, 
         "seguramente": {
-            "c": 0, 
+            "c": 1, 
             "e": "surely"
         }, 
         "seis": {
-            "c": 4, 
+            "c": 5, 
             "e": "six"
         }, 
         "semana": {
@@ -826,11 +826,11 @@
             "e": "only"
         }, 
         "solo": {
-            "c": 0, 
+            "c": 1, 
             "e": "alone"
         }, 
         "son": {
-            "c": 0, 
+            "c": 1, 
             "e": "are"
         }, 
         "sucia": {
@@ -846,11 +846,11 @@
             "e": "also"
         }, 
         "tampoco": {
-            "c": 0, 
+            "c": -1, 
             "e": "neither"
         }, 
         "tanto": {
-            "c": 0, 
+            "c": -1, 
             "e": "much"
         }, 
         "tarde": {
@@ -862,7 +862,7 @@
             "e": "cup"
         }, 
         "techo": {
-            "c": 0, 
+            "c": -1, 
             "e": "roof"
         }, 
         "temporada": {
@@ -882,7 +882,7 @@
             "e": "cake"
         }, 
         "tortuga": {
-            "c": 1, 
+            "c": 2, 
             "e": "turtle"
         }, 
         "totalmente": {
@@ -890,15 +890,15 @@
             "e": "totally"
         }, 
         "trabahadores": {
-            "c": 0, 
+            "c": 1, 
             "e": "workers"
         }, 
         "trabajo": {
-            "c": 1, 
+            "c": 0, 
             "e": "job"
         }, 
         "traje": {
-            "c": 2, 
+            "c": 3, 
             "e": "suit"
         }, 
         "unica": {
@@ -918,7 +918,7 @@
             "e": "neighbours"
         }, 
         "vegetales": {
-            "c": -1, 
+            "c": 0, 
             "e": "vegetables"
         }, 
         "ventana": {
@@ -934,7 +934,7 @@
             "e": "green"
         }, 
         "vestido": {
-            "c": 4, 
+            "c": 5, 
             "e": "dress"
         }, 
         "viernes": {
@@ -946,7 +946,7 @@
             "e": "live"
         }, 
         "zapato": {
-            "c": 1, 
+            "c": 0, 
             "e": "shoe"
         }
     }
