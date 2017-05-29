@@ -225,6 +225,10 @@
             "c": 5, 
             "e": "run"
         }, 
+        "corta": {
+            "c": 0, 
+            "e": "cut"
+        }, 
         "cuarto": {
             "c": 0, 
             "e": "room"
@@ -508,6 +512,10 @@
         "maestro": {
             "c": 5, 
             "e": "teacher"
+        }, 
+        "maneja": {
+            "c": 0, 
+            "e": "drive"
         }, 
         "martes": {
             "c": 5, 
@@ -872,6 +880,10 @@
         "testigo": {
             "c": 0, 
             "e": "witness"
+        }, 
+        "tijeras": {
+            "c": 0, 
+            "e": "scissors"
         }, 
         "todavia": {
             "c": 0, 
