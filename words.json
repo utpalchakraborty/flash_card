@@ -34,7 +34,7 @@
             "e": "moreover"
         }, 
         "adios": {
-            "c": -1, 
+            "c": 0, 
             "e": "bye"
         }, 
         "agua": {
@@ -72,6 +72,10 @@
         "amigo": {
             "c": 5, 
             "e": "friend"
+        }, 
+        "anda": {
+            "c": 0, 
+            "e": "walks"
         }, 
         "ano": {
             "c": 5, 
@@ -145,6 +149,10 @@
             "c": 0, 
             "e": "each"
         }, 
+        "caigo": {
+            "c": 0, 
+            "e": "fall"
+        }, 
         "cama": {
             "c": 5, 
             "e": "bed"
@@ -180,6 +188,10 @@
         "casa": {
             "c": 5, 
             "e": "house"
+        }, 
+        "catorce": {
+            "c": 0, 
+            "e": "fourteen"
         }, 
         "cebolla": {
             "c": 3, 
@@ -241,6 +253,10 @@
             "c": 0, 
             "e": "create"
         }, 
+        "cree": {
+            "c": 0, 
+            "e": "believe"
+        }, 
         "cuarto": {
             "c": -1, 
             "e": "room"
@@ -265,6 +281,10 @@
             "c": 3, 
             "e": "culture"
         }, 
+        "cura": {
+            "c": 0, 
+            "e": "cure"
+        }, 
         "definitivamente": {
             "c": 3, 
             "e": "definitely"
@@ -272,6 +292,10 @@
         "desayuno": {
             "c": 5, 
             "e": "breakfast"
+        }, 
+        "descanso": {
+            "c": 0, 
+            "e": "rest"
         }, 
         "deseo": {
             "c": 0, 
@@ -341,6 +365,10 @@
             "c": 3, 
             "e": "specially"
         }, 
+        "espera": {
+            "c": 0, 
+            "e": "wait"
+        }, 
         "estudiante": {
             "c": 5, 
             "e": "student"
@@ -392,6 +420,10 @@
         "generalmente": {
             "c": 3, 
             "e": "generally"
+        }, 
+        "gira": {
+            "c": 0, 
+            "e": "turn"
         }, 
         "gracias": {
             "c": 5, 
@@ -504,6 +536,10 @@
         "lento": {
             "c": 5, 
             "e": "slow"
+        }, 
+        "levanta": {
+            "c": 0, 
+            "e": "lift"
         }, 
         "limon": {
             "c": 5, 
@@ -705,6 +741,10 @@
             "c": 5, 
             "e": "dog"
         }, 
+        "pertenece": {
+            "c": 0, 
+            "e": "belong"
+        }, 
         "pez": {
             "c": 5, 
             "e": "fish"
@@ -813,6 +853,14 @@
             "c": 0, 
             "e": "priest"
         }, 
+        "salen": {
+            "c": 0, 
+            "e": "go out"
+        }, 
+        "seca": {
+            "c": 0, 
+            "e": "dry"
+        }, 
         "segundos": {
             "c": 2, 
             "e": "seconds"
@@ -837,8 +885,16 @@
             "c": 3, 
             "e": "sit"
         }, 
+        "setenta": {
+            "c": 0, 
+            "e": "seventy"
+        }, 
+        "siempre": {
+            "c": 0, 
+            "e": "always"
+        }, 
         "siete": {
-            "c": 3, 
+            "c": 4, 
             "e": "seven"
         }, 
         "siguientes": {
@@ -913,6 +969,10 @@
             "c": 0, 
             "e": "scissors"
         }, 
+        "tiro": {
+            "c": 0, 
+            "e": "discard"
+        }, 
         "todavia": {
             "c": 0, 
             "e": "still/yet"
@@ -942,7 +1002,7 @@
             "e": "suit"
         }, 
         "unica": {
-            "c": 2, 
+            "c": 3, 
             "e": "only"
         }, 
         "unicamente": {
@@ -952,6 +1012,10 @@
         "uno": {
             "c": 5, 
             "e": "one"
+        }, 
+        "usa": {
+            "c": 0, 
+            "e": "use"
         }, 
         "vecinos": {
             "c": 0, 
