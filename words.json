@@ -161,6 +161,10 @@
             "c": 5, 
             "e": "walk"
         }, 
+        "campana": {
+            "c": 0, 
+            "e": "bell"
+        }, 
         "cangrejo": {
             "c": 5, 
             "e": "crab"
@@ -220,6 +224,10 @@
         "ciudadano": {
             "c": 3, 
             "e": "citizen"
+        }, 
+        "comenzo": {
+            "c": 0, 
+            "e": "started"
         }, 
         "comida": {
             "c": 5, 
@@ -284,6 +292,10 @@
         "cura": {
             "c": 0, 
             "e": "cure"
+        }, 
+        "de nuevo": {
+            "c": 0, 
+            "e": "again"
         }, 
         "definitivamente": {
             "c": 3, 
@@ -549,6 +561,10 @@
             "c": 1, 
             "e": "clean"
         }, 
+        "llover": {
+            "c": 0, 
+            "e": "rain"
+        }, 
         "luego": {
             "c": 1, 
             "e": "later"
@@ -685,6 +701,10 @@
             "c": 5, 
             "e": "eight"
         }, 
+        "oir": {
+            "c": 0, 
+            "e": "hear"
+        }, 
         "oso": {
             "c": 3, 
             "e": "bear"
@@ -789,6 +809,10 @@
             "c": 0, 
             "e": "own"
         }, 
+        "puede": {
+            "c": 0, 
+            "e": "can"
+        }, 
         "puerta": {
             "c": 5, 
             "e": "door"
@@ -820,6 +844,10 @@
         "relativamente": {
             "c": 5, 
             "e": "relatively"
+        }, 
+        "repetir": {
+            "c": 0, 
+            "e": "repeat"
         }, 
         "rojo": {
             "c": 5, 
@@ -965,6 +993,10 @@
             "c": 0, 
             "e": "witness"
         }, 
+        "tiene que": {
+            "c": 0, 
+            "e": "has to"
+        }, 
         "tijeras": {
             "c": 0, 
             "e": "scissors"
@@ -972,6 +1004,10 @@
         "tiro": {
             "c": 0, 
             "e": "discard"
+        }, 
+        "tocar": {
+            "c": 0, 
+            "e": "touch"
         }, 
         "todavia": {
             "c": 0, 
