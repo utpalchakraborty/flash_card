@@ -393,6 +393,10 @@
             "c": 0, 
             "e": "again"
         }, 
+        "debil": {
+            "c": 0, 
+            "e": "weak"
+        }, 
         "definitivamente": {
             "c": 3, 
             "e": "definitely"
@@ -400,6 +404,10 @@
         "depende": {
             "c": -1, 
             "e": "it depends"
+        }, 
+        "derecha": {
+            "c": 0, 
+            "e": "right"
         }, 
         "desayuno": {
             "c": 5, 
@@ -424,6 +432,10 @@
         "dice": {
             "c": 0, 
             "e": "says"
+        }, 
+        "dificiles": {
+            "c": 0, 
+            "e": "difficult"
         }, 
         "disponible": {
             "c": 1, 
@@ -457,6 +469,10 @@
             "c": 5, 
             "e": "sleep"
         }, 
+        "dulce": {
+            "c": 0, 
+            "e": "sweet"
+        }, 
         "durante": {
             "c": 5, 
             "e": "during"
@@ -464,6 +480,10 @@
         "duro": {
             "c": 2, 
             "e": "hard"
+        }, 
+        "eficaz": {
+            "c": 0, 
+            "e": "effective"
         }, 
         "empresario": {
             "c": 3, 
@@ -484,6 +504,10 @@
         "entre": {
             "c": 0, 
             "e": "between"
+        }, 
+        "escasa": {
+            "c": 0, 
+            "e": "scarce"
         }, 
         "eso": {
             "c": 0, 
@@ -524,6 +548,10 @@
         "familia": {
             "c": 1, 
             "e": "family"
+        }, 
+        "famoso": {
+            "c": 0, 
+            "e": "famous"
         }, 
         "fechas": {
             "c": 2, 
@@ -641,6 +669,10 @@
             "c": 0, 
             "e": "winter"
         }, 
+        "izquierda": {
+            "c": 0, 
+            "e": "left"
+        }, 
         "jabon": {
             "c": 5, 
             "e": "soap"
@@ -692,6 +724,10 @@
         "levanta": {
             "c": 0, 
             "e": "lift"
+        }, 
+        "libres": {
+            "c": 0, 
+            "e": "free"
         }, 
         "limon": {
             "c": 5, 
@@ -917,6 +953,10 @@
             "c": 0, 
             "e": "couple"
         }, 
+        "pendiente": {
+            "c": 0, 
+            "e": "pending"
+        }, 
         "peor": {
             "c": 0, 
             "e": "worse"
@@ -1121,6 +1161,10 @@
             "c": 5, 
             "e": "week"
         }, 
+        "sencillo": {
+            "c": 0, 
+            "e": "simple"
+        }, 
         "sentada": {
             "c": 3, 
             "e": "sit"
@@ -1256,6 +1300,10 @@
         "traje": {
             "c": 5, 
             "e": "suit"
+        }, 
+        "tranquilo": {
+            "c": 0, 
+            "e": "calm"
         }, 
         "unica": {
             "c": 4, 
